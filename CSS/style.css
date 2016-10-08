@@ -1,0 +1,27 @@
+element.style {
+}
+body {
+    background-image: none;
+    background-color: #fff;
+    color: #777;
+}
+body {
+    font-family: "Source Sans Pro",sans-serif;
+    color: #777;
+    font-size: 16px;
+    line-height: 1.625;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
